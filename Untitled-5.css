@@ -1,0 +1,145 @@
+body{background-color:#000;
+perspective:700px;}
+
+.total{
+	width:1170px;
+	margin:auto;}
+
+.first{
+	width:1170px;
+	height:590px;
+	background-image:url(header1-bg.png);}
+
+.header{
+	width:1170px;
+	height:50px;}
+
+.photo{
+	width:100px;
+	float:left;
+	margin-left:15px;}
+
+.nav{
+	width:440px;
+	float:left;
+	padding-left:610px;}
+
+.nav a{font-size:12px;margin-right:11px;color:#FFF;text-decoration:none;}
+
+.nav a select{background-color:#003;color:#FFF;border:0px;font-size:16px;}
+
+.left{
+	width:570px;
+	float:left;
+	color:#FFF;
+	padding-left:15px;
+	font-size:18px;
+	margin-top:100px;
+	margin-left:2px;}
+
+.left input{color:#FFF;background-color:#FC0;font-size:16px;height:40px;border:0px;
+	font-weight:bold;}
+
+.right{
+	width:500px;
+	height:440px;
+	background-color:rgba(0,46,156,0.3);
+	border:1px solid #36F;
+	float:left;
+	margin-left:66px;
+	padding-left:15px;
+	margin-bottom:20px;
+	border-radius:15px;}	
+
+h3{color:#FFF;font-size:24px;}
+
+.right input{margin-right:6px;-webkit-border-radius:6px;font-size:18px;}
+
+.ggg input{color:#FFF;background-color:#FC0;width:89%;}
+
+.center{
+	width:1170px;
+	height:1764px;
+	background-color:#FFF;
+	text-align:center;
+	padding-top:20px;}
+
+h6{color:#999;}
+
+.more{
+	width:1170px;
+	height:400px;
+	padding-left:65px}
+	
+.gamal{
+	width:300px;
+	height:200px;
+	float:left;
+	background-color:rgba(0,46,156,0.3);
+	margin:20px;
+	margin-right:35px;
+	color:#666;
+	border-radius:15px;
+	transition:all 2s;}
+	
+.gamal:hover{transform:scale(2,2);color:#F00;}
+	
+h6{font-size:12px;}
+
+.middle{
+	width:1170px;
+	height:300px;
+	text-align:center;
+	padding-left:38px;
+	padding-top:140px;}
+	
+.picture{
+	width:500px;
+	height:300px;
+	float:left;}
+	
+.litter{
+	width:500px;
+	height:500px;
+	float:left;
+	margin-left:140px;
+	text-align:left;
+	margin-top:57px;}
+	
+.litter input{color:#FFF;background-color:#FC0;font-size:16px;height:40px;border:0px;
+	font-weight:bold;}
+	
+.after{
+	width:1170px;
+	height:300px;
+	text-align:center;}
+	
+.nti{
+	width:400px;
+	height:246px;
+	float:left;
+	text-align:left;
+	padding-left:44px;
+	margin-top:88px;}
+	
+.nti input{color:#FFF;background-color:#000;font-size:18px;border:0px;border-radius:6px;}
+
+.iti{
+	width:600px;
+	height:337px;
+	float:left;
+	margin-left:126px;}
+	
+.end{
+	width:1170;
+	height:250px;
+	background-image:url(callaction-bg.jpg);
+	margin-top:394px;}
+
+
+
+	
+	
+
+
+
